@@ -1,2 +1,1 @@
-game:GetService("Players").LocalPlayer:Kick("https://discord.com/invite/nysjx3jv9y")
--- No LONGER AVAILABLE BUDDY (:
+game:GetService("Players").LocalPlayer:Kick("A new and improved! - https://youtube.com/watch?v=D3PcnYFUgmE")
